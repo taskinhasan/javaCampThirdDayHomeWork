@@ -1,0 +1,28 @@
+user (kulanıcı) için neler olur;
+kullanıcı id = userId;
+kullanıcı adı = userName;
+kullanıcı parolası = UserPasword;
+
+userManager için neler olur;
+kullanıcı ekleme = userAdd;
+kullanıcı silme = userDelete;
+
+öğrenci (student) için neler olur;
+adı = firstName;
+soyad = lastName;
+yaş = age;
+
+schoolManager için neler olur.
+okuduğu okul = school;
+okul numarası = schoolName;
+
+eğitmen (instraction) için neler olur;
+
+adı = firstName;
+soyadı = lastName;
+yaş = age;
+
+instractionManager;
+branşı = branch;
+sertifikası = certificate;
+
